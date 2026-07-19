@@ -30,7 +30,7 @@
     "husky": "^9.1.7",
     "tailwindcss": "^4",
     "typescript": "^5",
-    "ultracite": "7.9.3"
+    "ultracite": "7.9.4"
   },
   "ignoreScripts": [
     "sharp",
